@@ -34,7 +34,7 @@
     height: 100px;
     background-color: rgb(201, 201, 201);
 margin-right: 10px;    
-border-radius: 20px 0px 0px 20px;
+
    
     
     
@@ -50,6 +50,7 @@ border-radius: 20px ;
 width:340px;
 align-items: center;
 font-family: arial;
+overflow: hidden;
 }
 
 .video-source {
