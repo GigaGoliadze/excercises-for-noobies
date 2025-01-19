@@ -1,0 +1,81 @@
+.p {
+    vertical-align: top;
+}
+
+.profile {
+    
+   box-shadow: 0 0 10px;
+    font-family: arial;
+    width: 100%;
+    margin: 15px 15px 25px 15px;
+    border: 1px solid grey;
+
+vertical-align: top;
+
+}
+.cat1 {
+    width: 200px;
+margin-bottom: 10px;
+    
+}
+
+.cat2 {
+    width: 200px;
+    margin-bottom: 10px;
+
+}
+
+.dog {
+    width: 200px;
+    height: 202px;
+    margin-bottom: 10px;
+    
+}
+.cat-name {
+    font-size: 18px;
+    margin-top: 0;
+    font-weight: bold;
+    padding-left: 5px;
+}
+
+.friends {
+  
+   width: 150px;
+    font-size: 13px;
+    vertical-align: top;
+    margin-top: 5px;
+color: grey;
+padding-left: 5px;
+}
+
+.friend-button {
+
+    background-color: rgb(51, 91, 251);
+    color: white;
+    font-family: arial;
+padding: 6px 15px 6px 15px;
+border: none;
+margin: 5px 5px 5px 5px;
+
+
+}
+
+.friend-button:hover {
+    cursor: pointer;
+}
+
+.dog22 {
+    display: inline-block;
+    width: 30px;
+    vertical-align: top;
+    border-radius:15px ;
+    margin-left: 5px;
+}
+
+.pets-grid {
+display: grid;
+grid-template-columns: 200px 200px 200px;
+column-gap: 25px;
+align-items: center;
+
+}

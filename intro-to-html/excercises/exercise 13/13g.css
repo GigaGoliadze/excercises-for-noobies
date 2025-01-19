@@ -1,0 +1,65 @@
+.pussicat {
+    width: 60px;
+    border-radius: 30px;
+    margin-right: 15px;
+}
+.post {
+    display: flex;
+    flex-direction: row;
+    font-family: arial;
+    align-items: center;
+    margin-bottom: 15px;
+}
+.author-name {
+    font-weight: bold;
+    font-size: 16px;
+    margin-bottom: 7px;
+}
+.nickname {
+    color: gray;
+    font-weight: bold;
+}
+.comment {
+    font-size: 16px;
+    line-height: 24px;
+}
+.supersimple-comment {
+    display: grid;
+    width: 350px;
+    
+}
+
+.gray-box {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(201, 201, 201);
+margin-right: 10px;    
+border-radius: 20px 0px 0px 20px;
+   
+    
+    
+}
+.youtube-link {
+display: flex;
+flex-direction: row;
+margin-left: 80px;
+border: 1px;
+border-color: rgb(201, 201, 201);
+border-style: solid;
+border-radius: 20px ;
+width:340px;
+align-items: center;
+font-family: arial;
+}
+
+.video-source {
+color: rgb(101, 99, 99);
+font-weight: bold;
+}
+.video-content {
+    line-height: 23px;
+    flex: 1;
+}
+.video-description {
+    color: rgb(49, 48, 48)
+}
